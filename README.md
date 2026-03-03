@@ -88,4 +88,5 @@ can also be passed via --ignore CLI flag
 values: true | false
 
 this project was created using `bun init` in bun v1.3.9. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
-written by [me](https://erenaydev.com.tr)
+
+the instantbugs project is written by [me](https://erenaydev.com.tr)
